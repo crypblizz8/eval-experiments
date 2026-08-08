@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Specs"
+  short_description: "Manage Markdown plans and tasks in specs/"
+  default_prompt: "Use $manage-specs to update the project plan and task status in specs/."

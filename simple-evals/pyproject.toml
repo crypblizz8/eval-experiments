@@ -1,0 +1,13 @@
+[project]
+name = "simple-evals"
+version = "0.1.0"
+description = "A tiny sentiment evaluation comparing two models through OpenRouter"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.32.0",
+    "python-dotenv>=1.0.0",
+]
+
+[tool.ruff.lint]
+extend-select = ["I"]

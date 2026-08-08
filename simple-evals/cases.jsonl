@@ -1,0 +1,20 @@
+{"id":"review-01","text":"The app is fast and incredibly easy to use.","expected":"positive"}
+{"id":"review-02","text":"Support solved my problem within minutes.","expected":"positive"}
+{"id":"review-03","text":"Battery life is noticeably better after the update.","expected":"positive"}
+{"id":"review-04","text":"It is not perfect, but I would happily recommend it.","expected":"positive"}
+{"id":"review-05","text":"The package arrived earlier than expected and everything worked.","expected":"positive"}
+{"id":"review-06","text":"The new layout took a day to learn, but now I finish tasks much faster.","expected":"positive"}
+{"id":"review-07","text":"My refund was processed without any hassle.","expected":"positive"}
+{"id":"review-08","text":"It crashes every time I upload a file.","expected":"negative"}
+{"id":"review-09","text":"I was charged twice for the same order.","expected":"negative"}
+{"id":"review-10","text":"Customer support never replied to any of my messages.","expected":"negative"}
+{"id":"review-11","text":"The interface looks nice, but the product is practically unusable.","expected":"negative"}
+{"id":"review-12","text":"The latest update removed the only feature I needed.","expected":"negative"}
+{"id":"review-13","text":"It is not the worst option, but I would not buy it again.","expected":"negative"}
+{"id":"review-14","text":"Delivery was on time, but the item arrived badly damaged.","expected":"negative"}
+{"id":"review-15","text":"Version 3.2 was released on Tuesday.","expected":"neutral"}
+{"id":"review-16","text":"The package contains one cable and a printed manual.","expected":"neutral"}
+{"id":"review-17","text":"The meeting has been moved from Monday to Wednesday.","expected":"neutral"}
+{"id":"review-18","text":"The subscription costs ten dollars per month.","expected":"neutral"}
+{"id":"review-19","text":"The device is available in black, white, and blue.","expected":"neutral"}
+{"id":"review-20","text":"The store opens at nine in the morning.","expected":"neutral"}
