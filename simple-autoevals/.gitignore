@@ -1,0 +1,4 @@
+.env
+data/invoice-50/images/
+data/invoice-50/*.tmp
+outputs/

@@ -2,14 +2,19 @@
 
 Rabbithole experiments with evals.
 
+Current
 1. [simplest evals](./simple-evals/)
 2. [simple autoevals](./simple-autoevals/)
 2. coding evals
 3. voice evals
 4. search evals
 
-others
-- [ ] OCR evals benchmark
+Other
+- [ ] OCR pipeline evals (LlamaBench)
+- [ ] Vision vs OCR: Compare direct image understanding, OCR-to-LLM, and image-plus-OCR.
+- [ ] Model routing: Test whether a cheap router can send easy tasks to cheaper models and difficult tasks to stronger ones.
+- [ ] LLM judge reliability: Measure judge agreement with humans, positional bias, verbosity bias, and self-preference.
+- [ ] Reasoning effort: Compare low through maximum reasoning on quality, latency, tokens, and cost.
 
 ## Landscape
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Error Analysis"
+  short_description: "Analyze failures in small LLM eval runs"
+  default_prompt: "Use $error-analysis to inspect this eval run, categorize observed failures, and prioritize the next fixes."
