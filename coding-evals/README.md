@@ -1,7 +1,6 @@
-# Searh Evals
+# Coding Evals
 
-Compare:
+SWE bench on latest
 
-Perplexity
-Exa
-Parallel
+XXX
+GPT 5.6
