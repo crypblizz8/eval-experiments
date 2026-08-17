@@ -7,9 +7,12 @@ extracts the invoice number, date, seller, and total. The project compares those
 answers with the expected values and prints a score.
 
 ## Architecture
-                  ┌─ Model A ──────┐
-Test cases ───────├─ Model B  ───┼─ AutoEvals ─► model scores
-                  └─ Model C  ──────┘
+
+```text
+             ┌── Model A ──┐
+Test cases ──┼── Model B ──┼── AutoEvals ──▶ Model scores
+             └── Model C ──┘
+```
 
 ## What you need
 - An [OpenRouter account](https://openrouter.ai/)
