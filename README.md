@@ -3,7 +3,7 @@
 Rabbithole experiments with evals.
 
 Current
-1. [simplest evals](./simple-evals/)
+1. [simple evals](./simple-evals/)
 2. [simple autoevals](./simple-autoevals/)
 2. coding evals
 3. voice evals
