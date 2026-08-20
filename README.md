@@ -5,12 +5,12 @@ Rabbithole experiments with evals.
 Current
 1. [simple evals](./simple-evals/)
 2. [simple autoevals](./simple-autoevals/)
-2. coding evals
-3. voice evals
-4. search evals
+3. [research evals](./research-evals/)
+4. coding evals
 
 Other
-- [ ] OCR pipeline evals (LlamaBench)
+- [ ] voice evals
+- [ ] OCR pipeline evals (LlamaBench / ExtractBench)
 - [ ] Vision vs OCR: Compare direct image understanding, OCR-to-LLM, and image-plus-OCR.
 - [ ] Model routing: Test whether a cheap router can send easy tasks to cheaper models and difficult tasks to stronger ones.
 - [ ] LLM judge reliability: Measure judge agreement with humans, positional bias, verbosity bias, and self-preference.

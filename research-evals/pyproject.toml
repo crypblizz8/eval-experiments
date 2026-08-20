@@ -1,0 +1,15 @@
+[project]
+name = "browsecomp-research-eval"
+version = "0.1.0"
+description = "A small BrowseComp replication for learning about research evals"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4,<9",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
